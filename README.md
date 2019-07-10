@@ -1,0 +1,1 @@
+This theme is powered by [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)
