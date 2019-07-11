@@ -39,7 +39,7 @@ Với Segment Tree, độ phức tạp của 2 loại query đều là *O(logN)*
 Để lưu trữ Segment Tree, có thể dùng mảng 1 chiều với kích thước *4N*  
 
 ## Code
-Đây là code implement của Min Segment Tree với Python 3.  
+Đây là code implement của Max Segment Tree với Python 3.  
 Để phù hợp với từng bài toán chỉ cần sửa phép toán lấy max, cấu trúc dữ liệu lưu trữ trên các node, và giá trị trả về khi *[u..v]* nằm ngoài khoảng lưu trữ của node
 
 ```python
